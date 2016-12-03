@@ -9,6 +9,7 @@ const item = {
     require('./images/Day003-FINAL.png'),
     require('./images/website-2.png'),
     require('./images/website-3.png'),
+    require('./images/website-4.png'),
     require('./images/website-4.png')
   ]
 }
