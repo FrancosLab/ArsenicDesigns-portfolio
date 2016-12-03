@@ -10,7 +10,7 @@ const item = {
     require('./images/website-2.png'),
     require('./images/website-3.png'),
     require('./images/website-4.png'),
-    require('./images/website-4.png')
+    require('./images/website-5.png')
   ]
 }
 
