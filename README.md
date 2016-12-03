@@ -72,7 +72,8 @@ export default item
 
 Example:
 
-```import AFL from './afl/item.js'
+```
+import AFL from './afl/item.js'
 
 const portfolio = [CreedEsports, DailyUI, HealthyHabits, Void, AFL]
 ```
